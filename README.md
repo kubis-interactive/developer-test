@@ -60,5 +60,5 @@ This test is conceived to test skillset ranging from junior developer to full st
 The test will not be used commercially by Kubis or by third party
 
 
-<br />
+
 **Break a leg**
