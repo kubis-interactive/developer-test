@@ -17,7 +17,7 @@ This test is conceived to test skillset ranging from junior developer to full st
 | *base_price* | Manufacturer price, without taxes |
 | *price* | Final product price, with taxes |
 | *sku* | Unique product code |
-| *visibility* | Product visibility: **1** = not visible, **2** = visible on listing, **3** = visible on search **4** = visible on listing & search |
+| *visibility* | Product visibility: **1** = not visible, **2** = visible on listing, **3** = visible on search, **4** = visible on listing & search |
 | *status* | Product status: **1** = active, **2** = disabled |
 | *categories* | Array of categories the product is part of |
 | *categories.\*.id* | Unique category system identification |
