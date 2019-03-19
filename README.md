@@ -41,7 +41,7 @@ This test is conceived to test skillset ranging from junior developer to full st
 
 - [ ] Build a search script that traverse [data.json](data.json) and returns results based on user input
 - [ ] Build an UI (user interface) that uses the script above
-- [ ] Clean coding style
+- [ ] Have clean coding style
 
 # You may consider (grants extra points)
 
