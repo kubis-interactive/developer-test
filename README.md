@@ -22,7 +22,7 @@ This test is conceived to test skillset ranging from junior developer to full st
 | *categories* | Array of categories the product is part of |
 | *categories.\*.id* | Unique category system identification |
 | *categories.\*.name* | Category name |
-| *categories.\*.slug* | category url key |
+| *categories.\*.slug* | Category url key |
 | *tax_class* | Tax identificator that sets additional product price changes: **1** = 9% tax, **2** = 19% tax |
 | *main_image* | Product main image |
 
