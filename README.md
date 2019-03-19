@@ -2,7 +2,7 @@
 
 This test is conceived to test skillset ranging from junior developer to full stack.
 
-**You have**
+# You have
 
 - [data.json](data.json) which contains a product list (fields described below)
 - EURO as currency for price attributes ( &euro; )
@@ -26,7 +26,7 @@ This test is conceived to test skillset ranging from junior developer to full st
 | *tax_class* | Tax identificator that sets additional product price changes: **1** = 9% tax, **2** = 19% tax |
 | *main_image* | Product main image |
 
-**You can**
+# You can
 
 - Add any css/js file
 - Import or use any libraries as long as you add reference to them
@@ -37,13 +37,13 @@ This test is conceived to test skillset ranging from junior developer to full st
 - Be creative
 - Improve this test
 
-**You must**
+# You must
 
 - [ ] Build a search script that traverse [data.json](data.json) and returns results based on user input
 - [ ] Build an UI interface that use the script above
 - [ ] Clean coding style
 
-**You may consider (grants extra points)**
+# You may consider (grants extra points)
 
 - [ ] Build or use an advanced searching algorithm
 - [ ] Search script still returns results even if there are spelling errors
@@ -55,6 +55,8 @@ This test is conceived to test skillset ranging from junior developer to full st
 - [ ] Multilanguage interface
 - [ ] Have a docker file that spawns a virtual server to run your application
 
-**Side note**
+## Side note
 
 The test will not be used commercially by Kubis or by third party
+
+## Good luck
